@@ -1,2 +1,2 @@
 # kaiL
-website untuk para pecinta memancing
+website statis untuk para pecinta memancing
